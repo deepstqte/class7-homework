@@ -7,7 +7,6 @@ RUN apt update && \
                    python3-pip && \
     pip3 install -r requirements.txt
 
-COPY housing.data ./
 COPY app.py ./
 
 EXPOSE 80
