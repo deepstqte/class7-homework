@@ -1,5 +1,5 @@
 scikit-learn==0.21.2
-dash==0.43.0
+dash==2.15.0
 dash_table==3.7.0
 pandas==0.24.2
 gunicorn
